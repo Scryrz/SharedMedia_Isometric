@@ -1,0 +1,8 @@
+.env
+format.bat
+**/desktop.ini
+.DS_Store
+.release
+.install
+.vscode
+CHANGELOG.MD
