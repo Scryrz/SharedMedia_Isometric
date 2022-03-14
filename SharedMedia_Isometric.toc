@@ -2,7 +2,7 @@
 ## Title: |cFFFFFF00<WA Soundpack>|r |cff00ebddIsometric|r by |cffb01f00Ayr|r
 ## Author: Ayr-Proudmoore
 ## Notes: Made for <Isometric> on US-Proudmoore Alliance
-## Version: 1.0
+## Version: 1.1
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
