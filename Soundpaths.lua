@@ -49,6 +49,9 @@ LSM:Register("sound", "|cff00D4FFSucc|r", [[Interface\Addons\SharedMedia_Isometr
 LSM:Register("sound", "|cff00D4FFDamage|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\thats-a-lot-of-damage.ogg]])
 LSM:Register("sound", "|cff00D4FFWhat Meme|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\what-bottom-text-meme.ogg]])
 LSM:Register("sound", "|cff00D4FFEmergency Meeting|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\emergencymeeting.ogg]])
+LSM:Register("sound", "|cff00D4FFSonic Death|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-death.ogg]])
+LSM:Register("sound", "|cff00D4FFSonic Ring Drop|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-ringdrop.ogg]])
+LSM:Register("sound", "|cff00D4FFSonic Extra Life|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-extralife.ogg]])
 
 -- -----
 --   STATUSBAR
