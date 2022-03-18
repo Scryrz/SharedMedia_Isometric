@@ -52,6 +52,7 @@ LSM:Register("sound", "|cff00D4FFEmergency Meeting|r", [[Interface\Addons\Shared
 LSM:Register("sound", "|cff00D4FFSonic Death|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-death.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic Ring Drop|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-ringdrop.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic Extra Life|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-extralife.ogg]])
+LSM:Register("sound", "|cff00D4FFPacman Waka|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\pacman-wakawaka.ogg]])
 
 -- -----
 --   STATUSBAR
