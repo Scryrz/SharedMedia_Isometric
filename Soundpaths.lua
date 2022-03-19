@@ -52,7 +52,7 @@ LSM:Register("sound", "|cff00D4FFEmergency Meeting|r", [[Interface\Addons\Shared
 LSM:Register("sound", "|cff00D4FFSonic - Death|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-death.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic - Ring Drop|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-ringdrop.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic - Extra Life|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-extralife.ogg]])
-LSM:Register("sound", "|cff00D4FFPacman Waka|r", [[Interface\Addons\SharedMedia_Isometric\media\media\sound\pacman-wakawaka.ogg]])
+LSM:Register("sound", "|cff00D4FFPacman Waka|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\pacman-wakawaka.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic - Gotta Go Fast|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\gottagofast.ogg]])
 LSM:Register("sound", "|cff00D4FFYou Right|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\markiplier-youright.ogg]])
 LSM:Register("sound", "|cff00D4FFPHub Intro|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\phub-intro.ogg]])
