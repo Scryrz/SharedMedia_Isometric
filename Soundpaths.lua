@@ -21,12 +21,15 @@ local LSM = LibStub("LibSharedMedia-3.0")
 LSM:Register("sound", "|cff00D4FFGas Gas Gas|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\gasgasgas.ogg]])
 LSM:Register("sound", "|cff00D4FFGarbage|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\piece-of-garbage.ogg]])
 LSM:Register("sound", "|cff00D4FFPHub Intro|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\phub-intro.ogg]])
+LSM:Register("sound", "|cff00D4FFLaugh Song|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\laughsong.ogg]])
 
 -- Videogame Sounds
 LSM:Register("sound", "|cff00D4FFPacman - Waka|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\pacman-wakawaka.ogg]])
+LSM:Register("sound", "|cff00D4FFPacman - Death|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\pacman-death.ogg]])
 LSM:Register("sound", "|cff00D4FFMinecraft - Potion|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\mcpotion.ogg]])
 LSM:Register("sound", "|cff00D4FFMinecraft - Oof|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\oof.ogg]])
-LSM:Register("sound", "|cff00D4FFAmong Us - Emergency Meeting|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\emergencymeeting.ogg]])
+LSM:Register("sound", "|cff00D4FFAmong Us - Emergency Meeting|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\amongus-emergencymeeting.ogg]])
+LSM:Register("sound", "|cff00D4FFAmong Us - Imposter Kill|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\amongus-imposterkill.ogg]])
 LSM:Register("sound", "|cff00D4FFAmong Us - Music|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\amongus-music.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic - Death|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-death.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic - Ring Drop|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-ringdrop.ogg]])
@@ -39,6 +42,7 @@ LSM:Register("sound", "|cff00D4FFFatality|r", [[Interface\Addons\SharedMedia_Iso
 LSM:Register("sound", "|cff00D4FFGTA V - Wasted|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\gtav-wasted.ogg]])
 LSM:Register("sound", "|cff00D4FFHadouken|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\hadouken.ogg]])
 LSM:Register("sound", "|cff00D4FFHey Listen|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\navi-heylisten.ogg]])
+LSM:Register("sound", "|cff00D4FFPikachu - Thunderbolt|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\pikachu-thunderbolt.ogg]])
 
 -- Memes
 LSM:Register("sound", "|cff00D4FFDKP Minus|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\dkp-minus.ogg]])
@@ -69,6 +73,8 @@ LSM:Register("sound", "|cff00D4FFLeeroy Jenkins|r", [[Interface\Addons\SharedMed
 LSM:Register("sound", "|cff00D4FFNani|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\nani.ogg]])
 LSM:Register("sound", "|cff00D4FFNico Nico Nii|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\niconiconii.ogg]])
 LSM:Register("sound", "|cff00D4FFOmae Wa Mou|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\omaewamou.ogg]])
+LSM:Register("sound", "|cff00D4FFCan't Believe You've Done This|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\cantbelieve.ogg]])
+LSM:Register("sound", "|cff00D4FFPoggers|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\senko-poggers.ogg]])
 
 
 -- Misc
@@ -83,10 +89,13 @@ LSM:Register("sound", "|cff00D4FFNoot Noot|r", [[Interface\Addons\SharedMedia_Is
 LSM:Register("sound", "|cff00D4FFRoll Need|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\roll-need.ogg]])
 LSM:Register("sound", "|cff00D4FFShocked|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\shocked-sound.ogg]])
 LSM:Register("sound", "|cff00D4FFOrder 66|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\order66.ogg]])
-LSM:Register("sound", "|cff00D4FFPickle Rick|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\picklerick.ogg]])
 LSM:Register("sound", "|cff00D4FFPrice is Right - Lose|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\priceisright-losing.ogg]])
 LSM:Register("sound", "|cff00D4FFYoshi Tongue|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\yoshitongue.ogg]])
 LSM:Register("sound", "|cff00D4FFKamehameha|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\kamehameha.ogg]])
+LSM:Register("sound", "|cff00D4FFR&M - Pickle Rick|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\picklerick.ogg]])
+LSM:Register("sound", "|cff00D4FFR&M - Mr. Meeseeks|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\rm-mrmeeseeks.ogg]])
+LSM:Register("sound", "|cff00D4FFWhat? Oh No!|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\familyguy-ohno.ogg]])
+LSM:Register("sound", "|cff00D4FFZoidberg|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\zoidberg.ogg]])
 
 -- -----
 --   STATUSBAR
