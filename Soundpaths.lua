@@ -78,6 +78,7 @@ LSM:Register("sound", "|cff00D4FFOrder 66|r", [[Interface\Addons\SharedMedia_Iso
 LSM:Register("sound", "|cff00D4FFPickle Rick|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\picklerick.ogg]])
 LSM:Register("sound", "|cff00D4FFPrice is Right - Lose|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\priceisright-losing.ogg]])
 LSM:Register("sound", "|cff00D4FFYoshi Tongue|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\yoshitongue.ogg]])
+LSM:Register("sound", "|cff00D4FFKamehameha|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\kamehameha.ogg]])
 
 -- -----
 --   STATUSBAR
