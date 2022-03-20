@@ -46,7 +46,7 @@ LSM:Register("sound", "|cff00D4FFPikachu - Thunderbolt|r", [[Interface\Addons\Sh
 
 -- Memes
 LSM:Register("sound", "|cff00D4FFDKP Minus|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\dkp-minus.ogg]])
-LSM:Register("sound", "|cff00D4FFBruhh|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\bruh.ogg]])
+LSM:Register("sound", "|cff00D4FFBruh|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\bruh.ogg]])
 LSM:Register("sound", "|cff00D4FFChunky's Dead|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\chunkydead.ogg]])
 LSM:Register("sound", "|cff00D4FFDisgusting|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\disgusting.ogg]])
 LSM:Register("sound", "|cff00D4FFE|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\e.ogg]])
