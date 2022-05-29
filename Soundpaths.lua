@@ -37,12 +37,12 @@ LSM:Register("sound", "|cff00D4FFSonic - Extra Life|r", [[Interface\Addons\Share
 LSM:Register("sound", "|cff00D4FFSonic - Gotta Go Fast|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\gottagofast.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic - Act Clear|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-actclear.ogg]])
 LSM:Register("sound", "|cff00D4FFSonic - Act Fail|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sonic-fail.ogg]])
-LSM:Register("sound", "|cff00D4FFFalcon Punch|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\falconpunch.ogg]])
+LSM:Register("sound", "|cff00D4FFFalcon Punch|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\falconpunch.ogg]]) -- Req: Cataxel
 LSM:Register("sound", "|cff00D4FFFatality|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\fatality.ogg]])
 LSM:Register("sound", "|cff00D4FFGTA V - Wasted|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\gtav-wasted.ogg]])
-LSM:Register("sound", "|cff00D4FFHadouken|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\hadouken.ogg]])
+LSM:Register("sound", "|cff00D4FFHadouken|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\hadouken.ogg]]) -- Req: Cataxel
 LSM:Register("sound", "|cff00D4FFHey Listen|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\navi-heylisten.ogg]])
-LSM:Register("sound", "|cff00D4FFPikachu - Thunderbolt|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\pikachu-thunderbolt.ogg]])
+LSM:Register("sound", "|cff00D4FFPikachu - Thunderbolt|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\pikachu-thunderbolt.ogg]]) -- Req: Cataxel
 
 -- Memes
 LSM:Register("sound", "|cff00D4FFDKP Minus|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\dkp-minus.ogg]])
@@ -65,7 +65,7 @@ LSM:Register("sound", "|cff00D4FFWhat Meme|r", [[Interface\Addons\SharedMedia_Is
 LSM:Register("sound", "|cff00D4FFYou Right|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\markiplier-youright.ogg]])
 LSM:Register("sound", "|cff00D4FFStepbro|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\stepbro.ogg]])
 LSM:Register("sound", "|cff00D4FFToasty|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\toasty.ogg]])
-LSM:Register("sound", "|cff00D4FFEmotional Damage|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\emotionaldamage.ogg]])
+LSM:Register("sound", "|cff00D4FFEmotional Damage|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\emotionaldamage.ogg]]) -- Req: Cataxel
 LSM:Register("sound", "|cff00D4FFBababooey|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\bababooey.ogg]])
 LSM:Register("sound", "|cff00D4FFShoop da Whoop|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\firinmahlazor.ogg]])
 LSM:Register("sound", "|cff00D4FFLemme Smash|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\lemmesmash.ogg]])
@@ -75,11 +75,11 @@ LSM:Register("sound", "|cff00D4FFNico Nico Nii|r", [[Interface\Addons\SharedMedi
 LSM:Register("sound", "|cff00D4FFOmae Wa Mou|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\omaewamou.ogg]])
 LSM:Register("sound", "|cff00D4FFCan't Believe You've Done This|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\cantbelieve.ogg]])
 LSM:Register("sound", "|cff00D4FFPoggers|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\senko-poggers.ogg]])
-LSM:Register("sound", "|cff00D4FFUwU|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\uwu.ogg]])
+LSM:Register("sound", "|cff00D4FFUwU|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\uwu.ogg]]) -- Req: Cataxel
 
 
 -- Misc
-LSM:Register("sound", "|cff00D4FFAnime Moan|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\animemoan.ogg]])
+LSM:Register("sound", "|cff00D4FFAnime Moan|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\animemoan.ogg]]) -- Req: Cataxel
 LSM:Register("sound", "|cff00D4FFMichael Scott No|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\michaelscott_nogod.ogg]])
 LSM:Register("sound", "|cff00D4FFKelly Clarkson|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\kelly-clarkson.ogg]])
 LSM:Register("sound", "|cff00D4FFSucked More|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\sucked-more-than-this.ogg]])
@@ -92,11 +92,17 @@ LSM:Register("sound", "|cff00D4FFShocked|r", [[Interface\Addons\SharedMedia_Isom
 LSM:Register("sound", "|cff00D4FFOrder 66|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\order66.ogg]])
 LSM:Register("sound", "|cff00D4FFPrice is Right - Lose|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\priceisright-losing.ogg]])
 LSM:Register("sound", "|cff00D4FFYoshi Tongue|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\yoshitongue.ogg]])
-LSM:Register("sound", "|cff00D4FFKamehameha|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\kamehameha.ogg]])
+LSM:Register("sound", "|cff00D4FFKamehameha|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\kamehameha.ogg]]) -- Req: Cataxel
 LSM:Register("sound", "|cff00D4FFR&M - Pickle Rick|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\picklerick.ogg]])
 LSM:Register("sound", "|cff00D4FFR&M - Mr. Meeseeks|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\rm-mrmeeseeks.ogg]])
 LSM:Register("sound", "|cff00D4FFWhat? Oh No!|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\familyguy-ohno.ogg]])
 LSM:Register("sound", "|cff00D4FFZoidberg|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\zoidberg.ogg]])
+LSM:Register("sound", "|cff00D4FFFcko Boingo|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\fucko-boingo.ogg]]) -- Req: Cataxel
+LSM:Register("sound", "|cff00D4FFFcky Wucky|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\fucky-wucky.ogg]]) -- Req: Cataxel
+LSM:Register("sound", "|cff00D4FFFcky Wucky Long|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\fucky-wucky-long.ogg]]) -- Req: Cataxel
+LSM:Register("sound", "|cff00D4FFOopsie Woopsie|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\oopsie-woopsie.ogg]]) -- Req: Cataxel
+LSM:Register("sound", "|cff00D4FFMoney Jiggle|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\money-jiggle.ogg]])
+LSM:Register("sound", "|cff00D4FFFeelin Dank|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\feelin-dank.ogg]]) -- Req: Serifall
 
 -- -----
 --   STATUSBAR
