@@ -75,6 +75,7 @@ LSM:Register("sound", "|cff00D4FFNico Nico Nii|r", [[Interface\Addons\SharedMedi
 LSM:Register("sound", "|cff00D4FFOmae Wa Mou|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\omaewamou.ogg]])
 LSM:Register("sound", "|cff00D4FFCan't Believe You've Done This|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\cantbelieve.ogg]])
 LSM:Register("sound", "|cff00D4FFPoggers|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\senko-poggers.ogg]])
+LSM:Register("sound", "|cff00D4FFUwU|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\uwu.ogg]])
 
 
 -- Misc
