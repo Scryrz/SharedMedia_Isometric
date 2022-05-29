@@ -2,7 +2,7 @@
 ## Title: |cFFFFFF00<WA Soundpack>|r |cff00ebddIsometric Soundpack|r
 ## Author: Ayr-Proudmoore
 ## Notes: Made for <Isometric> on US-Proudmoore Alliance
-## Version: 1.3.8
+## Version: 1.3.9
 ## X-Curse-Project-ID: 593765
 ## X-Wago-ID: pkNMkZKz
 

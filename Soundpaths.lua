@@ -103,6 +103,7 @@ LSM:Register("sound", "|cff00D4FFFcky Wucky Long|r", [[Interface\Addons\SharedMe
 LSM:Register("sound", "|cff00D4FFOopsie Woopsie|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\oopsie-woopsie.ogg]]) -- Req: Cataxel
 LSM:Register("sound", "|cff00D4FFMoney Jiggle|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\money-jiggle.ogg]])
 LSM:Register("sound", "|cff00D4FFFeelin Dank|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\feelin-dank.ogg]]) -- Req: Serifall
+LSM:Register("sound", "|cff00D4FFAra Ara|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\ara-ara.ogg]]) -- Req: Serifall
 
 -- -----
 --   STATUSBAR
