@@ -105,6 +105,9 @@ LSM:Register("sound", "|cff00D4FFMoney Jiggle|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cff00D4FFFeelin Dank|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\feelin-dank.ogg]]) -- Req: Serifall
 LSM:Register("sound", "|cff00D4FFAra Ara|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\ara-ara.ogg]]) -- Req: Serifall
 
+-- Guildies
+LSM:Register("sound", "|cff00D4FFHonk Honk|r", [[Interface\Addons\SharedMedia_Isometric\media\sound\honk-honk.ogg]]) -- Req: Zekkio, Feat: Zuulika
+
 -- -----
 --   STATUSBAR
 -- -----
