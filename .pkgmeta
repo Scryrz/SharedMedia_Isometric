@@ -8,8 +8,7 @@ externals:
     url: https://repos.wowace.com/wow/callbackhandler/trunk/CallbackHandler-1.0
     tag: latest
   Libs/LibSharedMedia-3.0:
-    url: https://repos.wowace.com/wow/sharedmedia/trunk
-    tag: latest
+    url: https://repos.curseforge.com/wow/libsharedmedia-3-0/trunk
 
 ignore:
   - README.md
