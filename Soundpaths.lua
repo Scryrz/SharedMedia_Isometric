@@ -107,6 +107,7 @@ LSM:Register("sound", "|cff00D4FFAra Ara|r", [[Interface\Addons\SharedMedia_Isom
 
 -- Guildies
 LSM:Register("sound", "|cff00D4FFHonk Honk|r", [[Interface\Addons\SharedMedia_Isometric\Media\sound\honk-honk.ogg]]) -- Req: Zekkio, Feat: Zuulika
+LSM:Register("sound", "|cff00D4FFHello There|r", [[Interface\Addons\SharedMedia_Isometric\Media\sound\obi-wan-hello-there.ogg]]) -- Req: Hsae
 
 -- -----
 --   STATUSBAR
